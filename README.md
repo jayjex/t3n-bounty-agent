@@ -96,3 +96,8 @@ priority ordering.
   `src/t3n-client.ts`.
 - No state, no database, no background jobs. The agent is a pure function:
   run → JSON out.
+
+## Get the full pack
+
+This agent is part of the [Matchbook Labs catalog](https://jayjex.github.io/matchbook-labs/catalog.html):
+paid Solana/EVM datasets, MCP servers, and starter kits, plus one free sample.
