@@ -1,0 +1,21 @@
+{
+  "name": "t3n-bounty-agent",
+  "version": "1.0.0",
+  "description": "Superteam Earn bounty triage agent built on the Terminal 3 ADK",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "vitest run",
+    "agent": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "@terminal3/t3n-sdk": "^5.10.0",
+    "node-fetch": "^3.3.2",
+    "tsx": "^4.23.13"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.0"
+  },
+  "license": "MIT"
+}
