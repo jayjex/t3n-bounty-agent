@@ -12,6 +12,8 @@ Runs in two modes:
 | `mock` (default) | nothing | full pipeline against the live Earn API, local DID, no T3N cluster calls |
 | `live` | `T3N_API_KEY` | same pipeline, authenticated T3N session with a real `did:t3n` |
 
+![real agent run](docs/agent-run.png)
+
 ## Quickstart
 
 ```bash
