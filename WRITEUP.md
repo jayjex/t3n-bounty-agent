@@ -2,7 +2,7 @@
 
 **Agent:** t3n-bounty-agent — Superteam Earn bounty triage on the Terminal 3 ADK
 **Repo:** https://github.com/jayjex/t3n-bounty-agent
-**Author:** Matchbook Labs (jayjex / goblin-grub)
+**Author:** Matchbook Labs (jayjex / jayjex)
 **Date:** 2026-09-05
 
 ---

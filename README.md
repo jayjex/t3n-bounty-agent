@@ -17,7 +17,7 @@ Runs in two modes:
 ## Quickstart
 
 ```bash
-git clone https://github.com/goblin-grub/t3n-bounty-agent
+git clone https://github.com/jayjex/t3n-bounty-agent
 cd t3n-bounty-agent
 npm install
 npm run agent            # mock mode — no key needed
